@@ -1,0 +1,60 @@
+.list-email {
+	font-style: italic;
+}
+
+.list-address {
+	margin-top: -14px;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+
+table tbody tr td:first-child {
+    width: 25%;
+}
+table tbody tr td:nth-child(2) {
+    width: 12rem;
+}
+.nav-link {
+    font-size: 1.6rem;
+}
+.h3, h3 {
+    font-size: 1.5rem;
+}
+#TipForm .form-control {
+    max-width: 4em;
+}
+#CommentForm .form-control {
+    max-width: 100%;
+}
+#comments-list table tbody tr td:first-child {
+    width: 4rem;
+}
+#comments-list table tbody tr td:nth-child(2) {
+    width: 5rem;
+}
+#comments-list table tbody tr td:nth-child(3) {
+    width: 6rem;
+}
+#comments-list table {
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES for https://jsfiddle.net/bootstrapious/vq6pxe78/
+* ==========================================
+*
+*/
+
+.page-holder {
+    min-height: 80vh;
+    min-width: 100vh;
+}
+  
+.bg-cover {
+    /*  opacity: 0.9;   */
+    background-size: cover !important;
+}
+  
