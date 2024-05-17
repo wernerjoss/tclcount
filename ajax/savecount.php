@@ -32,6 +32,9 @@
 		case 'add':
 			$count += 1;
 			break;
+		case 'add10':
+			$count += 10;
+			break;
 		case 'sub':
 			$count -= 1;
 			if (($count) < 0) $count = 0;

@@ -62,6 +62,9 @@ session_start();
 										<button type="button" class="btn btn-primary" id="btnMinus">-</button>
 									</div>
 									<div class="col-sm-4" style="margin-top: 1em;">
+										<button type="button" class="btn btn-primary" id="btnPlus10">+10</button>
+									</div>
+									<div class="col-sm-4" style="margin-top: 1em;">
 										<button type="button" class="btn btn-primary" id="btnReset">Reset</button>
 									</div>
 									<div class="col-sm-12" style="margin-top: 1em;">
